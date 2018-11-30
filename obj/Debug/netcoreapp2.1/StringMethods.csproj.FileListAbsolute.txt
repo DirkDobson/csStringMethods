@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringMethods/bin/Debug/netcoreapp2.1/StringMethods.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringMethods/bin/Debug/netcoreapp2.1/StringMethods.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringMethods/bin/Debug/netcoreapp2.1/StringMethods.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringMethods/bin/Debug/netcoreapp2.1/StringMethods.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringMethods/bin/Debug/netcoreapp2.1/StringMethods.pdb
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringMethods/obj/Debug/netcoreapp2.1/StringMethods.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringMethods/obj/Debug/netcoreapp2.1/StringMethods.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringMethods/obj/Debug/netcoreapp2.1/StringMethods.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringMethods/obj/Debug/netcoreapp2.1/StringMethods.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringMethods/obj/Debug/netcoreapp2.1/StringMethods.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringMethods/obj/Debug/netcoreapp2.1/StringMethods.pdb
